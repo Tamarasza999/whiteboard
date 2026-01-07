@@ -56,6 +56,7 @@ webSocket.addEventListener('message', (event) => {
 ## Deployment
 
 ***1. Create Project***
+<video src="https://github.com/Tamarasza999/whiteboard/screenrecording1.mp4" width="800" autoplay loop muted playsinline></video>
 
 ***2. Configure Durable Objects***\
 Configure wrangler.jsonc with SQLite migration
