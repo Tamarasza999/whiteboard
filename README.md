@@ -1,5 +1,5 @@
-#Real-Time Global Whiteboard
-  [https://whiteboard.tamaraszabo.workers.dev](https://whiteboard.tamaraszabo.workers.dev)  
+# Real-Time Global Whiteboard
+  [https://whiteboard.tamaraszabo.workers.dev](https://collaborative-whiteboard.testing-kl-012.workers.dev)  
 *Open in two browsers/devices to see real-time sync*
 
 > A collaborative drawing board with **instant global synchronization** using Cloudflare's edge network. Experience real-time collaboration across continents with <100ms latency.
