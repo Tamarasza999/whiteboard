@@ -2,6 +2,8 @@
   [https://whiteboard.tamaraszabo.workers.dev](https://collaborative-whiteboard.testing-kl-012.workers.dev)  
 *Open in two browsers/devices to see real-time sync*
 
+![Demo](demo.gif)
+
 > A collaborative drawing board with **instant global synchronization** using Cloudflare's edge network. Experience real-time collaboration across continents with <100ms latency.
 
 ## Architecture Concepts
